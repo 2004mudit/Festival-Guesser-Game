@@ -1,0 +1,32 @@
+200 Is it a religious festival? (Y/N)
+180 Does it involve lighting lamps? (Y/N)
+160 Is it Diwali? (Y/N)
+157 It's "Diwali" 
+158 It's "Holi"
+170 Is it a harvest festival? (Y/N)
+165 It's "Pongal"
+166 It's "Baisakhi"
+180 Is it a cultural festival? (Y/N)
+175 It's "Navratri"
+176 It's "Ganesh Chaturthi"
+190 Is it a winter festival? (Y/N)
+185 It's "Lohri"
+186 It's "Christmas"
+200 Is it a spring festival? (Y/N)
+195 It's "Vasant Panchami"
+196 It's "Ugadi"
+210 Is it a regional festival? (Y/N)
+205 It's "Onam"
+206 It's "Bihu"
+220 Is it a national festival? (Y/N)
+215 It's "Republic Day"
+216 It's "Independence Day"
+230 Is it a family-oriented festival? (Y/N)
+225 It's "Raksha Bandhan"
+226 It's "Karva Chauth"
+240 Is it a color festival? (Y/N)
+235 It's "Holi"
+236 It's "Rang Panchami"
+250 Is it a religious fasting festival? (Y/N)
+245 It's "Navratri"
+246 It's "Karva Chauth"
